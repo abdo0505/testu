@@ -1,0 +1,19 @@
+{
+  "users": {},
+  "chats": {},
+  "settings": {
+    "self": false,
+    "autoread": true,
+    "restrict": true,
+    "autorestart": true,
+    "anticall": true,
+    "image": true,
+    "gif": false,
+    "teks": false,
+    "doc": false,
+    "button": false,
+    "backupDB": false
+  },
+  "stats": {},
+  "approveList": []
+}
